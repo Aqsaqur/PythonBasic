@@ -1,11 +1,11 @@
 # write a program wap if a number entered by the user is odd or even 
 
-# num = int(input("enter number: "))
+num = int(input("enter number: "))
 
-# if num % 2 == 0:
-#     print("the number is even")
-# else:
-#     print("the number is odd")
+if num % 2 == 0:
+    print("the number is even")
+else:
+    print("the number is odd")
 
 # write the above program in nested loops
 
